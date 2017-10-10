@@ -1,0 +1,1 @@
+Welcome to the Intergalactic English to Emoji Translator! Clone down this repo and use in conjunction with the Emoji Translator backend, which you can find here: https://github.com/meryldakin/emoji-api
